@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-253.29346.138">
+    <data-source name="tododb@localhost" uuid="84df23cd-07a3-4510-b220-0100bee05791">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" />
+      <user-name>todo_user</user-name>
+      <schema-mapping />
+    </data-source>
+    <data-source name="postgres@localhost" uuid="e6c690bf-97ad-439d-b985-19362cf973bd">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" />
+      <secret-storage>master_key</secret-storage>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
